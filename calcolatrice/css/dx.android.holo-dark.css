@@ -578,8 +578,8 @@
 .dx-theme-android .dx-button .dx-button-text
 {
   color: #fff;
-  font-size: 14px;
-  line-height: 32px;
+  font-size: 30px;
+  line-height: 200%;
 }
 .dx-theme-android .dx-button .dx-icon
 {

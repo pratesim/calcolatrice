@@ -2109,9 +2109,9 @@
 }
 .dx-theme-ios .dx-button .dx-button-content .dx-button-text
 {
-  font-size: 9pt;
+  font-size: 15pt;
   font-weight: bold;
-  line-height: 28px;
+  line-height: 200%;
   color: #fff;
   padding: 0 2px;
   display: inline;

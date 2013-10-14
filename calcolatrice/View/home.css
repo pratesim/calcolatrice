@@ -1,0 +1,21 @@
+
+.dx-button .dx-button-text
+{
+  font-style: oblique;
+  font-size: 200%;
+}
+.buttonNumber{
+    margin-left: 5%;
+    margin-top: 3%;
+    width: 18%;
+    height: 10%;
+}
+#buttonEqual{
+    margin-top: 2%;
+    margin-left: 5%;
+    width: 86%;
+    height: 10%;
+    font-size: 20%;
+}
+
+

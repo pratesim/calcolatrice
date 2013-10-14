@@ -48,3 +48,14 @@ var app = {
         console.log('Received Event: ' + id);
     }
 };
+
+window.calcolatrice = {};
+
+$(function () {
+    calcolatrice.app = new DevExpress.framework.html.HtmlApplication({
+        defaultLayout: 'simple',
+        namespace: calcolatrice
+    });
+    calcolatrice.app.router.register(":view", {view: 'home'});
+    calcolatrice.app.navigate();
+});

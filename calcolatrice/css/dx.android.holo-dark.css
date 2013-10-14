@@ -578,8 +578,8 @@
 .dx-theme-android .dx-button .dx-button-text
 {
   color: #fff;
-  font-size: 30px;
-  line-height: 200%;
+  font-size: 20px;
+  line-height: 300%;
 }
 .dx-theme-android .dx-button .dx-icon
 {
@@ -979,7 +979,7 @@
   padding: .5em;
   background: transparent;
   color: #fff;
-  font-size: 1em;
+  font-size: 20px;
 }
 .dx-theme-android .dx-editbox .dx-editbox-input:-moz-placeholder
 {
